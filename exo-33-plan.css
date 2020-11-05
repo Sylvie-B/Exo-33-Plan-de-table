@@ -1,0 +1,71 @@
+body{
+    border: solid 1px black;
+    text-align: center;
+    font-size: 20px;
+    width: 1000px;
+    height: 800px;
+    padding: 10px;
+}
+
+#bords{
+    max-height: 892px;
+}
+
+#matt, #py, #fred{
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: 60px;
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
+
+#yann, #gaetan, #damien, #samuel, #mickael, #amaury, #chloe, #laurie, #elodie{
+    width: 90px;
+    height: 120px;
+    border: 1px solid black;
+}
+
+.colone04{
+    display: inline-block;
+    width: 90px;
+    position: relative;
+    left: 455px;
+    bottom: 488px;
+}
+
+#jeff, #clem{
+    position: relative;
+    bottom: 648px;
+    left: 250px;
+    width: 80px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+#mick02, #mehdi{
+    position: relative;
+    bottom: 956px;
+    left: 650px;
+    width: 80px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+#sylvie, #justine{
+    display: inline-block;
+    width: 200px;
+    height: 60px;
+    border: 1px solid black;
+    position: relative;
+    bottom: 1330px;
+}
+
+#jerome{
+    display: inline-block;
+    width: 200px;
+    height: 60px;
+    border: 1px solid black;
+    position: relative;
+    bottom: 850px;
+}
